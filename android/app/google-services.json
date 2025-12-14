@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470329448144",
+    "project_id": "carecenter-1c1d5",
+    "storage_bucket": "carecenter-1c1d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470329448144:android:2583e5f1c9ff9ae226b0d5",
+        "android_client_info": {
+          "package_name": "com.example.care_center"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAejskMIEJ-d0Upppu9b9_SZKbGxVhPU9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
